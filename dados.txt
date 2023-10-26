@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome:  Eduardo Maciel.
+-Profissão: Estudante.
+-Cidade:  Rio Grande.
+-O que faz nas horas vaga: Vou à academia.
+-Feedback sobre o curso Qualidade de Software: Estou percebendo que agora consigo realizar tarefas no computador que antes eram apenas um sonho. Agora vejo que não eram tão difíceis, mas requeriam empenho e dedicação.
+-Feedback sobre a plataforma de estudo da EBAC: Fiquei positivamente surpreendido com a dedicação e a imersão nas tarefas. Acredito que só aprendemos de fato quando colocamos em prática, e aqui sempre há atividades para fazer e praticar.
+
+Obrigado!!!
+
+
